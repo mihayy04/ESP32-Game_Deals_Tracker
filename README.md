@@ -1,6 +1,5 @@
 # ESP32-Game_Deals_Tracker
-Proiect IoT cu ESP32 pentru configurarea rețelei Wi-Fi prin Bluetooth și preluarea ofertelor de jocuri via REST API.
-
+IoT project with ESP32 for configuring Wi-Fi network via Bluetooth and retrieving game offers via REST API.
 
 ## 🛠️ Tech Stack
 * **Hardware:** ESP32 Development Board
